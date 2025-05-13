@@ -107,3 +107,9 @@ Faza de Îmbunătățire: După fiecare val, folosește aurul pentru a îmbunăt
 
 Câștigă sau Pierzi: Supraviețuiește tuturor rundelor pentru a câștiga jocul. Dacă pierzi toate viețile, jocul se încheie.
 
+Bibliografie:
+https://pisaucer.github.io/book-c-plus-plus/Beginning_Cpp_Through_Game_Programming.pdf
+https://gameprogrammingpatterns.com/contents.html
+https://www.geeksforgeeks.org/shared_ptr-in-cpp/
+https://www.geeksforgeeks.org/unique_ptr-in-cpp/
+https://www.geeksforgeeks.org/how-to-clear-console-in-cpp/
